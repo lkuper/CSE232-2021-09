@@ -15,19 +15,19 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Feel free to cal
 
   - Email: for anything CSE232-related, send a PM on the course Zulip instead.  Otherwise: <lkuper@ucsc.edu>
   - Office location: Engineering 2, Room 349B
-  - Office ours: TBD
+  - Office hours: TBD
   - Research areas: programming languages, distributed systems, software verification, parallelism and concurrency (check out the [Languages, Systems, and Data Lab](https://lsd.ucsc.edu/) website for more information)
   - <http://pronoun.is/she>
 
 ## A few essential details about the course
 
   - 5-unit graduate seminar course (in this context, "seminar" means a course where we discuss assigned readings and everyone participates actively in the discussion)
-  - Satisfies the [breadth requirement](https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/breadth-requirements) in the "Systems and Security" category for the UCSC CSE MS and Ph.D. programs
+  - Satisfies the [breadth requirement](https://grad.soe.ucsc.edu/cse/curriculum/breadth-requirements) in the "Systems and Security" category for the UCSC CSE MS and Ph.D. programs
   - Class meets in person Mondays, Wednesdays, and Fridays, 2:40-3:45pm Pacific time
   - Course GitHub repo (public; for class discussion summaries): <https://github.com/lkuper/CSE232-2021-09/>
   - Canvas (for reading responses and grades): <https://canvas.ucsc.edu/courses/46250>
   - Zulip (private; for announcements, live chat during lectures, Q&A, communicating with course staff, and socializing): <https://ucsc-cse232.zulipchat.com> (all enrolled and waitlisted students will receive an invitation by email)
-  - Course web page (you're soaking in it): <http://composition.al/CSE232-2021f-09/> (URLs are case-sensitive after the domain name, so be sure to capitalize "CSE"
+  - Course web page (you're soaking in it): <http://composition.al/CSE232-2021-09/> (URLs are case-sensitive after the domain name, so be sure to capitalize "CSE"
   
 ## What's this course about?
 
