@@ -1,0 +1,12 @@
+title: "CSE232, Fall 2021"
+description: "Distributed Systems"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+repository: "lkuper/CSE232-2021-09"
+
+baseurl: "/CSE232-2021-09"
+
+plugins:
+  - jekyll-include-cache
