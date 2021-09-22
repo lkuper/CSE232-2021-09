@@ -77,7 +77,7 @@ Each individual at UC Santa Cruz should act in the best interests of everyone el
 
 ### What you can expect from me
 
-I have designed our course following campus guidance and with current public health guidelines in mind. However, these guidelines may change in accordance with shifting infection rates or the emergence of new variants. If updated public health recommendations and university requirements make our current course format unfeasible, or if I experience a need to self-isolate, I will alter the format. This may include moving in-person sessions onto Zoom. I will  communicate clearly with you via Zulip about any changes that occur. I will provide as much advance warning as possible and give you all the information you need to transition smoothly to the new format. If you have questions about the changes, please reach out to me so I can answer them.
+I have designed our course following campus guidance and with current public health guidelines in mind. However, these guidelines may change in accordance with shifting infection rates or the emergence of new variants. If updated public health recommendations and university requirements make our current course format unfeasible, or if I experience a need to self-isolate, I will alter the format. This may include moving in-person sessions onto Zoom. I will communicate clearly with you via Zulip about any changes that occur. I will provide as much advance warning as possible and give you all the information you need to transition smoothly to the new format. If you have questions about the changes, please reach out to me so I can answer them.
 
 ### What I expect from you
 
