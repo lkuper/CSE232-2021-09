@@ -15,7 +15,7 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Feel free to cal
 
   - Email: for anything CSE232-related, send a PM on the course Zulip instead.  Otherwise: <lkuper@ucsc.edu>
   - Office location: Engineering 2, Room 349B
-  - Office hours: TBD
+  - Office hours: Tuesdays 2-3pm PT on Zoom; Fridays 10-11am in person
   - Research areas: programming languages, distributed systems, software verification, parallelism and concurrency (check out the [Languages, Systems, and Data Lab](https://lsd.ucsc.edu/) website for more information)
   - <http://pronoun.is/she>
 
