@@ -1,4 +1,4 @@
----
+n---
 title: "Schedule"
 layout: splash
 ---
@@ -21,7 +21,7 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Wednesday, 9/29  | <span class="discussion">Discussion</span>: Jim Waldo et al., ["A Note on Distributed Computing" (1994)](readings/note-distributed-computing.pdf) | Reading response due 5pm PT on Tuesday, 9/28; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 10/6
 | Friday, 10/1     | <span class="lecture">Lecture</span>: causality and happens-before; network models; state and events; partial orders; total orders; Lamport clocks; vector clocks
 | Monday, 10/4     | <span class="discussion">Discussion</span>: Leslie Lamport, ["Time, Clocks, and the Ordering of Events in a Distributed System" (CACM 1978)](readings/time-clocks.pdf) **(skip the section "Physical Clocks")**  | Reading response due 5pm PT on Sunday, 10/3; scribes' wiki write-up due 11:59:59pm PT on Monday, 10/11
-| Wednesday, 10/6  | <span class="lecture">Lecture</span>: delivery vs. receiving; properties of executions: FIFO delivery, causal delivery, totally-ordered delivery; implementing FIFO delivery; implementing causal broadcast
+| Wednesday, 10/6  | <span class="lecture">Lecture</span>: delivery vs. receiving; properties of executions: FIFO delivery, causal deliverpy, totally-ordered delivery; implementing FIFO delivery; implementing causal broadcast
 | Friday, 10/8     | <span class="discussion">Discussion</span>: Reinhard Schwarz and Friedemann Mattern, ["Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail" (_Distributed Computing_, 1994)](readings/holy-grail.pdf) **(sections 1-3 only)**  | Reading response due 5pm PT on Thursday, 10/7; scribes' wiki write-up due 11:59:59pm PT on Friday, 10/15
 | Monday, 10/11    | <span class="lecture">Lecture</span>: causal histories, cuts and consistent cuts; recap of causal broadcast; safety and liveness
 | Wednesday, 10/13 | <span class="discussion">Discussion</span>: Kenneth Birman, André Schiper, and Pat Stephenson, ["Lightweight Causal and Atomic Group Multicast" (TOCS, 1991)](readings/cbcast.pdf) **(sections 1-5 only)** | Reading response due 5pm PT on Tuesday, 10/12; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 10/20
@@ -29,13 +29,13 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Monday, 10/18    | <span class="discussion">Discussion</span>: K. Mani Chandy and Leslie Lamport, ["Distributed Snapshots: Determining Global States of Distributed Systems" (TOCS, 1985)](readings/chandy.pdf) | Reading response due 5pm PT on Sunday, 10/17; scribes' wiki write-up due 11:59:59pm PT on Monday, 10/25
 | Wednesday, 10/20 | <span class="lecture">Lecture</span>: Chandy-Lamport wrap-up: limitations, assumptions, properties; uses of snapshots; centralized vs. decentralized algorithms; more on safety and liveness
 | Friday, 10/22    | <span class="discussion">Discussion</span>: Bowen Alpern and Fred B. Schneider, ["Defining Liveness" (_Information Processing Letters_, 1985)](readings/liveness.pdf) | Reading response due 5pm PT on Thursday, 10/21; scribes' wiki write-up due 11:59:59pm PT on Friday, 10/29
-| Monday, 10/25    | <span class="lecture">Lecture</span>: reliable delivery; fault classification and fault models; two generals problem
+| Monday, 10/25    | <span class="lecture">Lecture</span>: fault classification and fault models; two generals problem; reliable delivery; idempotence; so-called "exactly-once" delivery
 | Wednesday, 10/27 | <span class="discussion">Discussion</span>: Joseph Y. Halpern and Yoram Moses, ["Knowledge and Common Knowledge in a Distributed Environment" (JACM, 1990)](readings/common-knowledge.pdf) **(sections 1-4 only)** | Reading response due 5pm PT on Tuesday, 10/26; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 11/3
-| Friday, 10/29    | <span class="lecture">Lecture</span>: implementing reliable delivery; idempotence; so-called "exactly-once" delivery; reliable broadcast; implementing reliable broadcast; preview of replication
+| Friday, 10/29    | <span class="lecture">Lecture</span>: forms of fault tolerance; reliable broadcast; implementing reliable broadcast; redundancy and fault tolerance; preview of replication
 | Monday, 11/1     | <span class="discussion">Discussion</span>: Felix C. Gärtner, ["Fundamentals of Fault-Tolerant Distributed Computing in Asynchronous Environments" (ACM _Computing Surveys_, 1999)](readings/fault-tolerance.pdf) | Reading response due 5pm PT on Sunday, 10/31; scribes' wiki write-up due 11:59:59pm PT on Monday, 11/8
-| Wednesday, 11/3  | <span class="lecture">Lecture</span>: reasons to do replication; total order vs. determinism; strong conistency (informally); primary-backup replication; chain replication; latency and throughput
+| Wednesday, 11/3  | <span class="lecture">Lecture</span>: total order vs. determinism; consistency models (informally); primary-backup replication; chain replication; latency and throughput
 | Friday, 11/5     | <span class="discussion">Discussion</span>: Robbert van Renesse and Fred B. Schneider, ["Chain Replication for Supporting High Throughput and Availability" (OSDI 2004)](readings/chain-replication.pdf) | Reading response due 5pm PT on Thursday, 11/4; scribes' wiki write-up due 11:59:59pm PT on Friday, 11/12
-| Monday, 11/8     | <span class="lecture">Lecture</span>: handling node failure in replication protocols; consistency models (read-your-writes, FIFO, causal, strong); introduction to consensus; problems equivalent to consensus; the FLP result; introduction to Paxos
+| Monday, 11/8     | <span class="lecture">Lecture</span>: introduction to consensus; problems equivalent to consensus; the FLP result; introduction to Paxos
 | Wednesday, 11/10 | <span class="discussion">Discussion</span>: Michael J. Fischer, Nancy A. Lynch, and Michael S. Paterson, ["Impossibility of Distributed Consensus with One Faulty Process" (JACM 1985)](readings/flp.pdf) | Reading response due 5pm PT on Tuesday, 11/9; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 11/17
 | Friday, 11/12    | <span class="lecture">Lecture</span>: Paxos: the interesting parts; Multi-Paxos
 | Monday, 11/15    | <span class="discussion">Discussion</span>: Leslie Lamport, ["Paxos Made Simple" (2001)](readings/paxos-simple.pdf) | Reading response due 5pm PT on Sunday, 11/14; scribes' wiki write-up due 11:59:59pm PT on Monday, 11/22
