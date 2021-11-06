@@ -1,4 +1,4 @@
-n---
+---
 title: "Schedule"
 layout: splash
 ---
@@ -21,7 +21,7 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Wednesday, 9/29  | <span class="discussion">Discussion</span>: Jim Waldo et al., ["A Note on Distributed Computing" (1994)](readings/note-distributed-computing.pdf) | Reading response due 5pm PT on Tuesday, 9/28; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 10/6
 | Friday, 10/1     | <span class="lecture">Lecture</span>: causality and happens-before; network models; state and events; partial orders; total orders; Lamport clocks; vector clocks
 | Monday, 10/4     | <span class="discussion">Discussion</span>: Leslie Lamport, ["Time, Clocks, and the Ordering of Events in a Distributed System" (CACM 1978)](readings/time-clocks.pdf) **(skip the section "Physical Clocks")**  | Reading response due 5pm PT on Sunday, 10/3; scribes' wiki write-up due 11:59:59pm PT on Monday, 10/11
-| Wednesday, 10/6  | <span class="lecture">Lecture</span>: delivery vs. receiving; properties of executions: FIFO delivery, causal deliverpy, totally-ordered delivery; implementing FIFO delivery; implementing causal broadcast
+| Wednesday, 10/6  | <span class="lecture">Lecture</span>: delivery vs. receiving; properties of executions: FIFO delivery, causal delivery, totally-ordered delivery; implementing FIFO delivery; implementing causal broadcast
 | Friday, 10/8     | <span class="discussion">Discussion</span>: Reinhard Schwarz and Friedemann Mattern, ["Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail" (_Distributed Computing_, 1994)](readings/holy-grail.pdf) **(sections 1-3 only)**  | Reading response due 5pm PT on Thursday, 10/7; scribes' wiki write-up due 11:59:59pm PT on Friday, 10/15
 | Monday, 10/11    | <span class="lecture">Lecture</span>: causal histories, cuts and consistent cuts; recap of causal broadcast; safety and liveness
 | Wednesday, 10/13 | <span class="discussion">Discussion</span>: Kenneth Birman, André Schiper, and Pat Stephenson, ["Lightweight Causal and Atomic Group Multicast" (TOCS, 1991)](readings/cbcast.pdf) **(sections 1-5 only)** | Reading response due 5pm PT on Tuesday, 10/12; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 10/20
