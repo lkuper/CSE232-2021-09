@@ -42,9 +42,9 @@ The course will alternate between <span class="discussion">Discussion</span> and
 | Wednesday, 11/17 | <span class="lecture">Lecture</span>: fault tolerance of Paxos; brief mention of other consensus protocols: Viewstamped Replication, Zab, Raft; eventual consistency; strong convergence and strong eventual consistency; intro to application-specific conflict resolution
 | Friday, 11/19    | <span class="discussion">Discussion</span>: Tushar Chandra, Robert Griesemer, and Joshua Redstone, ["Paxos Made Live: An Engineering Perspective" (invited talk, PODC 2007)](readings/paxos-made-live.pdf) | Reading response due 5pm PT on Thursday, 11/18; scribes' wiki write-up due 11:59:59pm PT on Friday, 11/26
 | Monday, 11/22    | <span class="lecture">Lecture</span>: network partitions; availability; the consistency/availability trade-off; anti-entropy with Merkle trees; gossip; quorum consistency
-| Wednesday, 11/24 | <span class="discussion">Discussion</span>: Giuseppe DeCandia et al., ["Dynamo: Amazon’s Highly Available Key-value Store" (SOSP 2007)](readings/amazon-dynamo.pdf)  | Reading response due 5pm PT on Tuesday, 11/23; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 12/1
+| Wednesday, 11/24 | <span class="lecture">Lecture</span>: sharding; consistent hashing
 | Friday, 11/26    | No class (Thanksgiving break)
-| Monday, 11/29    | <span class="lecture">Lecture</span>: sharding; consistent hashing; online systems vs. offline systems, raw data vs. derived data; intro to MapReduce
-| Wednesday, 12/1  | <span class="discussion">Discussion</span>: Jeffrey Dean and Sanjay Ghemawat, ["MapReduce: Simplified Data Processing on Large Clusters" (OSDI 2004)](readings/mapreduce.pdf)  | Reading response due 5pm PT on Tuesday, 11/30; scribes' wiki write-up due 11:59:59pm PT on Wednesday, 12/8
-| Friday, 12/3     | <span class="lecture">Lecture</span>: MapReduce: examples, approach to fault tolerance, combine functions; course wrap-up
+| Monday, 11/29    | <span class="discussion">Discussion</span>: Giuseppe DeCandia et al., ["Dynamo: Amazon’s Highly Available Key-value Store" (SOSP 2007)](readings/amazon-dynamo.pdf)  | Reading response due 5pm PT on Sunday, 11/28; scribes' wiki write-up due 11:59:59pm PT on Monday, 12/6
+| Wednesday, 12/1  | <span class="lecture">Lecture</span>: online systems vs. offline systems, raw data vs. derived data; MapReduce
+| Friday, 12/3     | <span class="discussion">Discussion</span>: Jeffrey Dean and Sanjay Ghemawat, ["MapReduce: Simplified Data Processing on Large Clusters" (OSDI 2004)](readings/mapreduce.pdf)  | Reading response due 5pm PT on Thursday, 12/2; scribes' wiki write-up due 11:59:59pm PT on Friday, 12/10
 | Thursday, 12/9   | **No final exam.**  Enjoy your winter break!
