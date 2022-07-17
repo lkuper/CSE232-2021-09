@@ -27,7 +27,7 @@ Hi, I'm [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)!  (Feel free to cal
   - Course GitHub repo (public; for class discussion summaries): <https://github.com/lkuper/CSE232-2021-09/>
   - Canvas (for reading responses and grades): <https://canvas.ucsc.edu/courses/46250>
   - Zulip (private; for announcements, live chat during lectures, Q&A, communicating with course staff, and socializing): <https://ucsc-cse232.zulipchat.com> (all enrolled and waitlisted students will receive an invitation by email)
-  - Course web page (you're soaking in it): <http://composition.al/CSE232-2021-09/> (URLs are case-sensitive after the domain name, so be sure to capitalize "CSE"
+  - Course web page (you're soaking in it): <https://decomposition.al/CSE232-2021-09/> (URLs are case-sensitive after the domain name, so be sure to capitalize "CSE"
   
 ## What's this course about?
 
@@ -57,7 +57,7 @@ In these small-group discussions, each student will play a designated role of *a
 
 Some people will like this format, while others won't like it at all -- so give some thought to whether it is what you want before you commit to taking this course.  (In particular, if you want to take a course where one student gives a slide presentation about a paper while other students listen silently, that's *not* what this course will be.)
 
-On lecture days, the material we'll cover in CSE232 will be similar to my undergrad distributed systems course, CSE138, although the pace will be faster.  Some of you may find my [Spring 2021 CSE138 lecture videos](http://composition.al/CSE138-2021-03/schedule.html) to be a helpful resource.
+On lecture days, the material we'll cover in CSE232 will be similar to my undergrad distributed systems course, CSE138, although the pace will be faster.  Some of you may find my [Spring 2021 CSE138 lecture videos](https://decomposition.al/CSE138-2021-03/schedule.html) to be a helpful resource.
 
 On discussion days, we'll discuss mostly older papers, primarily from the 80s and 90s, because a lot of our focus will be on the foundations of the field and the historical development of distributed systems ideas.  In fact, the most recent of the papers on the [schedule](schedule.html) was published in 2007.  If you're mostly interested in reading shiny new distributed systems papers instead of older ones, this course is probably not for you.
 
